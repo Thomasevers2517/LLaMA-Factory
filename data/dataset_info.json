@@ -1,4 +1,16 @@
 {
+  "whatsapp_data": {
+  "file_name": "whatsapp_data.json",
+  "columns": {
+    "prompt": "instruction",
+    "query": "input",
+    "response": "output",
+    "system": "system",
+    "history": "history"
+    }
+  },
+
+  
   "identity": {
     "file_name": "identity.json"
   },
